@@ -1,0 +1,10 @@
+{
+    "domain": "ncsc",
+    "name": "NCSC Advisories",
+    "version": "1.0",
+    "documentation": "https://github.com/Robinzor/homeassistant-ncsc",
+    "dependencies": [],
+    "codeowners": ["@Robinzor"],
+    "requirements": ["feedparser"]
+  }
+  
